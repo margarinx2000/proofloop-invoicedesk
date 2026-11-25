@@ -1,0 +1,4 @@
+Skill update available: not installed → 0.1.4 — run `kane-cli install skill`
+
+[lock] run not committed (failed); discarding playground lock
+evidence: view locally with `kane-cli evidence serve /home/hatch/.testmuai/kaneai/sessions/c14b348d-f776-4416-8ce2-cb99bf1ec609/evidence/4768d1ea-ea95-4b56-9a8f-e4f5f4b6c807.evidence`
