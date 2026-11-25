@@ -1,0 +1,1 @@
+{"description":"InvoiceDesk — a small invoicing app that refuses to ship until Kane CLI verifies it. Built for the Kane CLI Online Hackathon (TestMu AI).","engines":{"node":">=18"},"name":"proofloop-invoicedesk","private":true,"scripts":{"start":"node server.js","verify":"node scripts/verify-loop.mjs"},"type":"module","version":"1.0.0"}
